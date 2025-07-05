@@ -37,14 +37,6 @@
 
 ---
 
-### 🚧 Tecnologias em Aprendizagem
-
-- 📜 JavaScript ▓▓▓▓▓▓▓░░░ 70%
-- ⚛️ React ▓▓▓▓▓░░░░░ 50%
-- 🧩 Node.js ▓▓▓▓░░░░░░ 40%
-
----
-
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
