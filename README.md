@@ -1,10 +1,6 @@
 <h1 align="center">Olá 👋, eu sou Edmilson Alves</h1>
 <h3 align="center">Estudante de Engenharia Informática na Universidade do Mindelo</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Edmilson-999&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
 ---
 
 ### 🧑‍💻 Sobre mim
