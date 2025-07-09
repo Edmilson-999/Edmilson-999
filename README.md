@@ -14,8 +14,6 @@
 
 ### 🚀 Frameworks & Languages
 
-### 🚀 Frameworks & Languages
-
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" height="30" alt="Python" style="margin: 5px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" height="30" alt="Java" style="margin: 5px;" />
